@@ -88,6 +88,14 @@
 </div>
 
 ---
+### 🛢️Bases de Datos
+<div align="left">
+  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/32/null/external-postman-is-the-only-complete-api-development-environment-logo-shadow-tal-revivo.png](https://www.techspot.com/images2/downloads/topdownload/2020/01/2020-01-28-ts3_thumbs-c3e.png" height="30" alt="my sql" />
+  <img width="12" />
+</div>
+---
+---
+
 
 ### 🌐 Redes Sociales
 <div align="left">
