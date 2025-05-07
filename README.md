@@ -82,7 +82,7 @@
 <div align="left">
   <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/32/null/external-postman-is-the-only-complete-api-development-environment-logo-shadow-tal-revivo.png" height="30" alt="postman logo" />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/thunderclient/icons/main/vscode-icon.png" height="30" alt="thunderclient logo" />
+  <img src="https://cdn-images-1.medium.com/v2/resize:fit:1200/1*7aQitMAcWD-jdWta0SjHLg.png" height="30" alt="thunderclient logo" />
 </div>
 
 ---
@@ -102,8 +102,7 @@
 
 ---
 
-### 🐍 Snake Animation
-
+###
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FJosu/FJosu/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FJosu/FJosu/output/github-contribution-grid-snake.svg" />
