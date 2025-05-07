@@ -8,7 +8,7 @@
 💻 I love working on projects that involve software architecture, automation and development tools.  
 🔍 I'm passionate about learning new technologies and improving existing ones.  
 🌎 I'm always open to collaborating on impactful and creative ideas.  
-✍️ *[Edit this section to personalize more]*
+
 
 ---
 
